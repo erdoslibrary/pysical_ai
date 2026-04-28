@@ -1,0 +1,1 @@
+Sensor Data: 10.5Sensor: Temp=24.3, Humid=40
